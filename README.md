@@ -5,7 +5,7 @@ https://github.com/SlithyMatt/nes-hello
 
 I took that boiler plate code and changed:
 
-*********The charset for easy hexadecminal conversion.
+The charset for easier hexadecimal to tile conversion
 
 And took his "print" code and made it into a subroutine for reusabilty.
 
