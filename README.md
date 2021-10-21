@@ -4,9 +4,9 @@ The boiler plate code is based on Matt Hefferman's Hello World example
 https://github.com/SlithyMatt/nes-hello
 
 I took that boiler plate code and changed:
--The charset for easy hexadecminal conversion.
--And took his "print" code and made it into a subroutine for reusabilty.
--Then added my own joystick handling routines, this was quiet a challenge and in hindsight not the easiest approach to find out the "Konami Code byte string". Because the NES controller is read serially, and you can process the bits in MSB or LSB order and that would change the joystick variable value.
+**********The charset for easy hexadecminal conversion.
+*And took his "print" code and made it into a subroutine for reusabilty.
+*Then added my own joystick handling routines, this was quiet a challenge and in hindsight not the easiest approach to find out the "Konami Code byte string". Because the NES controller is read serially, and you can process the bits in MSB or LSB order and that would change the joystick variable value.
 I learned how the Joystick worked through this document: https://d1.amobbs.com/bbs_upload782111/files_28/ourdev_551332.pdf
 
 
