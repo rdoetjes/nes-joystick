@@ -3,6 +3,9 @@
 The boiler plate code is based on Matt Hefferman's Hello World example
 https://github.com/SlithyMatt/nes-hello
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gyHFkcKlDGA/0.jpg)](https://www.youtube.com/watch?v=gyHFkcKlDGA)
+
+
 I took that boiler plate code and changed:
 
 * The charset for easier hexadecimal to tile conversion
